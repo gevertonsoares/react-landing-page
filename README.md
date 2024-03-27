@@ -1,3 +1,7 @@
+# Minha Primeira Experiência com React
+- Criei uma landing page com componentes de style utilizando style-components e também o framework bootstrap para testar algumas classes e experiências.
+- Conforme vou me aprimorando, vou refatorando a landing page para que fique de forma bem arquitetada e padronizada.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
